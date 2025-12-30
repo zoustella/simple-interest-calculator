@@ -1,0 +1,4 @@
+zoustella:~/project$ git branch -vv
+  bug-fix-typo               c4d9e5f [origin/bug-fix-typo] Fixed typo in README
+* main                       7f2a1b3 [origin/main] Initial commit
+  simple-interest-calculator a1b2c3d [origin/simple-interest-calculator] Added bash script
