@@ -4,7 +4,7 @@ Simple Interest CalculatorA simple tool to calculate the interest earned over a 
 Formula:The calculator uses the standard formula:
 $$A = P(1 + rt)$$
 
-Where:
+Where:  
 $P$ = Principal amount  
 $r$ = Annual interest rate  
 $t$ = Time in years  
