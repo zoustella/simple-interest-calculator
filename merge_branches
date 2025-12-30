@@ -1,0 +1,9 @@
+zoustella:~/project$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+zoustella:~/project$ git merge bug-fix-typo
+Updating 7f2a1b3..c4d9e5f
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
